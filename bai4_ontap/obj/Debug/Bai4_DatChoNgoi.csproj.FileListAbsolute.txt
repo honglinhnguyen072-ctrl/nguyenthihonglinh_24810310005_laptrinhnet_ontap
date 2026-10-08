@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\bin\Debug\Bai4_DatChoNgoi.exe.config
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\bin\Debug\Bai4_DatChoNgoi.exe
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\bin\Debug\Bai4_DatChoNgoi.pdb
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\obj\Debug\Bai4_DatChoNgoi.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\obj\Debug\Bai4_DatChoNgoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\obj\Debug\Bai4_DatChoNgoi.exe
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai4_DatChoNgoi\bai4_ontap\obj\Debug\Bai4_DatChoNgoi.pdb

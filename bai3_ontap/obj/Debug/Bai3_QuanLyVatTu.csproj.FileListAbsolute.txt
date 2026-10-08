@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\bin\Debug\Bai3_QuanLyVatTu.exe.config
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\bin\Debug\Bai3_QuanLyVatTu.exe
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\bin\Debug\Bai3_QuanLyVatTu.pdb
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\obj\Debug\Bai3_QuanLyVatTu.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\obj\Debug\Bai3_QuanLyVatTu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\obj\Debug\Bai3_QuanLyVatTu.exe
+C:\Users\Admin\OneDrive\Desktop\.NET\OnTapWinForms\Bai3_QuanLyVatTu\bai3_ontap\obj\Debug\Bai3_QuanLyVatTu.pdb
